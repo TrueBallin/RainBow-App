@@ -10,6 +10,8 @@ import UIKit
 
 class ColorsDetailViewController: UIViewController {
 
+    
+    var cellColor: 
     override func viewDidLoad() {
         super.viewDidLoad()
 
